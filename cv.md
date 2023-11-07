@@ -19,7 +19,8 @@
 * I'm a future Frontend-developer.   
 * 🖥 Experienced in cross-browser, adaptive layout of websites. 
 * 📚 In the process of learning and developing my knowledge. Moreover, I have big plans for that! 🙂
-  
+<br>
+
 ## :hammer_and_wrench: Skills:
 
 <div>
@@ -32,12 +33,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-##  📧 Contacts
-* Telegram: [vitnat1](https://t.me/vitnat1)
-* Github: [vtarasso](https://github.com/vtarasso)
-* E-mail: dadhearthstone@mail.ru
+<br>
 
-
+## 🔖  Courses
+👨‍🎓 [Alem01](https://alem.school/) educational school [alumni](https://alem.school/certificates/alumni/vtarasso).  
+<br>
 ##  💻 Experience
 ### Links to my training projects
 * [Groupie-tracker](https://groupie-tracker-553n.onrender.com) - A training project made in Golang. Display information from deleted json files on the page. Weak optimisation, you will have to wait for downloading the deployed version. [Video link](https://www.youtube.com/watch?v=8p2bzAx-5JM)
@@ -65,8 +65,11 @@ func ErrorHandler(w http.ResponseWriter, code int) {
 	}
 }
 ```
-## 🔖  Courses
-👨‍🎓 [Alem01](https://alem.school/) educational school [alumni](https://alem.school/certificates/alumni/vtarasso).   
+
+##  📧 Contacts
+* Telegram: [vitnat1](https://t.me/vitnat1)
+* Github: [vtarasso](https://github.com/vtarasso)
+* E-mail: dadhearthstone@mail.ru
 
 ## 👅 Languages
 * Russian - Native Speaker
