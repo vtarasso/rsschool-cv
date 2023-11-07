@@ -15,7 +15,7 @@
 
 ## 😉 A few words about myself
 
-* My naime is Vitaliy Tarassov.   
+* My name is Vitaliy Tarassov.   
 * I'm a future Frontend-developer.   
 * 👨‍🎓 [Alem01](https://alem.school/) educational school [alumni](https://alem.school/certificates/alumni/vtarasso).   
 * 🖥 Experienced in cross-browser, adaptive layout of websites. 
