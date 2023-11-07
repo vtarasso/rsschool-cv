@@ -1,5 +1,5 @@
-# 🙋‍♂️ Hello and welcome!
-
+# Vitaliy Tarassov
+🙋‍♂️ Hello and welcome!
 <div align="center">
   If you don’t walk today, you’ll have to run tomorrow 🎯  
 </div>
@@ -17,10 +17,9 @@
 
 * My name is Vitaliy Tarassov.   
 * I'm a future Frontend-developer.   
-* 👨‍🎓 [Alem01](https://alem.school/) educational school [alumni](https://alem.school/certificates/alumni/vtarasso).   
 * 🖥 Experienced in cross-browser, adaptive layout of websites. 
 * 📚 In the process of learning and developing my knowledge. Moreover, I have big plans for that! 🙂
-
+  
 ## :hammer_and_wrench: Skills:
 
 <div>
@@ -35,6 +34,15 @@
 
 ## Contacts
 
+
+##  💻 Experience
+### Links to my training projects
+* [Groupie-tracker](https://groupie-tracker-553n.onrender.com) - A training project made in Golang. Display information from deleted json files on the page. Weak optimisation, you will have to wait for downloading the deployed version. [Video link](https://www.youtube.com/watch?v=8p2bzAx-5JM)
+* [Forum](https://forum-b1fn.onrender.com) - A training project made in Golang. The name speaks for itself. A site-forum, where you can register, leave posts, like, dislike. Weak optimisation, you will have to wait for the download of the deployed version. [Video link](https://www.youtube.com/watch?v=HLdnLD4Q1GM)
+* [Ascii-Art-Generator](https://ascii-art-r29i.onrender.com) - A training project made in the Golang language. The name speaks for itself. 
+The site is an analogue of the ascii art generator. Weak optimisation, you will have to wait for the download of the deployed version. [Video link](https://www.youtube.com/watch?v=xpDpq2EZQRQ)
+* [Euclid](https://vtarasso.github.io/euclid-v2.0)- Adaptive Landing Page
+* [Cyberpunk-promo](https://vtarasso.github.io/cyberpunk) - Adaptive Landing Page
 
 ## 📟 Examples of my code
 
@@ -54,6 +62,10 @@ func ErrorHandler(w http.ResponseWriter, code int) {
 	}
 }
 ```
-## 
+## 🔖  Courses
+👨‍🎓 [Alem01](https://alem.school/) educational school [alumni](https://alem.school/certificates/alumni/vtarasso).   
 
 ## Languages
+* Russian - Native Speaker
+* English - A2
+* Kazakh - A2 
