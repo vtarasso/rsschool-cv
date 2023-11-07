@@ -32,7 +32,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-## Contacts
+##  📧 Contacts
+* Telegram: [vitnat1](https://t.me/vitnat1)
+* Github: [vtarasso](https://github.com/vtarasso)
+* E-mail: dadhearthstone@mail.ru
 
 
 ##  💻 Experience
@@ -65,7 +68,7 @@ func ErrorHandler(w http.ResponseWriter, code int) {
 ## 🔖  Courses
 👨‍🎓 [Alem01](https://alem.school/) educational school [alumni](https://alem.school/certificates/alumni/vtarasso).   
 
-## Languages
+## 👅 Languages
 * Russian - Native Speaker
 * English - A2
 * Kazakh - A2 
